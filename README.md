@@ -33,9 +33,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The order of ceremonies obserued in the annointing and coronation of the most Christian King of Fran
+
+1. The Printer to the Reader.
+
 #####Body#####
-The order of ceremonies obserued in the annointing and coronation of the most Christian King of Fran
+
+1. The order of ceremonies obſerued in the annointing and coronation of the moſt Chriſtian King of Fraunce and Nauarre, Henry the IIII. of that name, celebrated in our Lady Church, in the Citie of Chartres vpon Sonday the 27. of February 1594.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
